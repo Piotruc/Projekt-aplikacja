@@ -2,7 +2,6 @@
 
 """Własne wyjątki wykorzystywane w logice wyścigu."""
 
-
 class BladWysciguError(Exception):
     """Bazowy wyjątek dla wszystkich błędów logiki gry"""
     pass
