@@ -1,0 +1,1 @@
+#Testy samej rozgrywki: aktualizacja stanu wyścigu, blokada jazdy po mecie i wykrywanie zwycięzcy.

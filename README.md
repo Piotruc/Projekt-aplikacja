@@ -1,3 +1,4 @@
 # Projekt-aplikacja
 Projekt porgramowanie obiektowe, towrzenie aplikacji
-Witaj janie, stworzylem te repozytorium masz propozycje - pisz
+Witaj Janie, stworzylem te repozytorium masz propozycje - pisz
+Tutaj bedzie powstawac glowna dokumentacja naszego projektu 

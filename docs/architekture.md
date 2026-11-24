@@ -1,0 +1,1 @@
+#tutaj beda dodatkowe notatki i diagramy

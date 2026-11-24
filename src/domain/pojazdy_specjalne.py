@@ -1,0 +1,1 @@
+#klasy konkretnych aut (np. BolidF1, AutoRajdowe), które dziedziczą po klasie glownej Pojazd

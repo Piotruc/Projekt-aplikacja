@@ -1,0 +1,1 @@
+#klasa Wyscig łączy obiekt Tor oraz dwa obiekty Pojazd i pilnuje zasad rozgrywki

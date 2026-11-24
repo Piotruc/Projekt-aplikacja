@@ -1,0 +1,1 @@
+#klasa tor (wie jak wyglada mapa )

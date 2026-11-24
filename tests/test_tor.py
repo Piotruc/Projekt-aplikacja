@@ -1,0 +1,1 @@
+#Testy sprawdzające, czy Tor poprawnie rozpoznaje współrzędne na asfalcie, na trawie, na bandzie oraz zaliczenie okrążenia.
