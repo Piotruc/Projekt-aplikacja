@@ -1,3 +1,3 @@
 pygame>=2.5.0
 pytest>=8.0.0
-Lista zewnętrznych bibliotek potrzebnych do uruchomienia projektu
+#Lista zewnętrznych bibliotek potrzebnych do uruchomienia projektu
